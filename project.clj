@@ -1,4 +1,4 @@
-(defproject com.jakemccrary/reload "0.1.0-SNAPSHOT"
+(defproject com.jakemccrary/reload "0.1.1-SNAPSHOT"
   :description "Ring middleware that uses tools.namespace to reload changes"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
