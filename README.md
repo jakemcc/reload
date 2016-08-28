@@ -6,6 +6,10 @@ detecting and reloading changed namespaces.
 
 ## Usage
 
+Add the [latest version](https://clojars.org/com.jakemccrary/reload) to your project.clj. 
+
+[![Clojars Project](https://img.shields.io/clojars/v/com.jakemccrary/reload.svg)](https://clojars.org/com.jakemccrary/reload)
+
 Require `com.jakemccrary.middleware.reload` and wrap your handler with `wrap-reload`.
 
 ```clojure
